@@ -20,3 +20,5 @@ Attorney biographies (verbatim) and the firm logo. Everything else is new.
 Only the firm's own photographs (offices, attorney portraits), a public-domain Rehoboth Beach
 boardwalk photo, and a map of Delaware drawn from public-domain U.S. Census outlines. No image
 requires a credit.
+
+_Last published: 2026-11-20._
